@@ -1,0 +1,4 @@
+rootProject.name = 'intellij-grpc-bug'
+
+include 'server:grpc:grpc-api'
+include 'server:grpc:module-that-uses-grpc-api-jar'
